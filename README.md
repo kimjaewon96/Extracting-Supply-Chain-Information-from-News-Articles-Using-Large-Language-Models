@@ -26,4 +26,4 @@ To use LLama-3-8B-Instruct, you need an access token from huggingface and the pe
 
 ### Case Study Dataset
 
-To obtain the case study dataset (mining.json, mining_processed.json), please [contact the author](pokedexter@korea.ac.kr).
+To obtain the case study dataset (mining.json, mining_processed.json), please contact the author (pokedexter@korea.ac.kr).
