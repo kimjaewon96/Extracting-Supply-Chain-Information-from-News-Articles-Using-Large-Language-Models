@@ -1,0 +1,6 @@
+*.json
+.venv/*
+**/logs/*
+training_data/*
+__pycache__
+datasets/*

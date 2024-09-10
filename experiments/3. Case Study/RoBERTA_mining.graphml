@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="Rio Tinto" />
+    <node id="Citi" />
+    <node id="Vella" />
+    <node id="GM" />
+    <node id="Fortescue Metals Group" />
+    <node id="LG Chem Ltd." />
+    <node id="Nissan Motor Co." />
+    <node id="Panasonic Holdings Corp." />
+    <node id="Trafigura Group" />
+    <node id="Trafigura" />
+    <node id="Mosaic" />
+    <node id="Hibar" />
+    <node id="Lithion Recycling Inc" />
+    <node id="O" />
+    <node id="Teck Resources Ltd" />
+    <node id="Tesla Inc." />
+    <node id="Tesla TSLA" />
+    <node id="Metso Outotec" />
+    <node id="Honda Motor Co" />
+    <node id="Rothschild &amp; Co" />
+    <node id="Core" />
+    <node id="CTR" />
+    <node id="Sichuan New Energy" />
+    <node id="Vale Brazil" />
+    <node id="Renault" />
+    <node id="Managem" />
+    <node id="Ganfeng Lithium Co" />
+    <node id="Alcan Inc" />
+    <node id="Albemarle Albemarle" />
+    <node id="SK On" />
+    <node id="Controlled Thermal Resources" />
+    <node id="Petrohawk Energy" />
+    <node id="Korea Zinc" />
+    <node id="China Mineral Resources Group Co." />
+    <node id="Millennial" />
+    <node id="PowerCo" />
+    <node id="SAVANT" />
+    <node id="Nippon Steel" />
+    <node id="Moatize" />
+    <node id="Vale Canada" />
+    <node id="Vedanta Resources" />
+    <node id="ERG" />
+    <node id="Hindustan Zinc Ltd." />
+    <node id="Boliden Odda" />
+    <node id="Vidalia" />
+    <node id="Image Citibank" />
+    <node id="BYD" />
+    <node id="Anglo American" />
+    <node id="Samarco" />
+    <node id="High yield Energy Technologies" />
+    <node id="General Motors" />
+    <node id="Liebherr" />
+    <node id="First Quantum Minerals" />
+    <node id="Tesla" />
+    <node id="POSCO" />
+    <node id="US Steel" />
+    <node id="Kia Corp" />
+    <node id="Steel" />
+    <node id="Alliance Nickel" />
+    <node id="Northvolt" />
+    <node id="Cobre Panama" />
+    <node id="Yanggu Xiangguang Copper Co." />
+    <node id="BHP Group" />
+    <node id="London Metal Exchange" />
+    <node id="Jingmen Gem Co. Ltd" />
+    <node id="Cerrejon" />
+    <node id="Ganfeng Lithium" />
+    <node id="Talon Metals" />
+    <node id="Teck Resources" />
+    <node id="Teck" />
+    <node id="Huayou Cobalt" />
+    <node id="Zhejiang Huayou Cobalt Co." />
+    <node id="Bonnell Aluminum" />
+    <node id="Vitesco" />
+    <node id="Adobe Stock General Motors Co." />
+    <node id="BHP" />
+    <node id="Nippon Steel Corp." />
+    <node id="Alcan" />
+    <node id="Compass" />
+    <node id="Controlled Thermal" />
+    <node id="Chery Automobile Co." />
+    <node id="Rio" />
+    <node id="Syrah" />
+    <node id="Vale SA" />
+    <node id="Pilbara Minerals" />
+    <node id="Lake Resources NL" />
+    <node id="Piedmont Lithium" />
+    <node id="Turquoise Hill" />
+    <node id="Rusal" />
+    <node id="Nano One Materials Corp" />
+    <node id="United Co. Rusal International PJSC" />
+    <node id="Prony" />
+    <node id="Mitsubishi Corp. RtM" />
+    <node id="Vale World" />
+    <node id="Electra Battery Materials" />
+    <node id="GME Resources" />
+    <node id="Vulcan" />
+    <node id="Flickr MP Materials" />
+    <node id="JSW Steel Ltd" />
+    <node id="Kennecott" />
+    <node id="Mincor Resources" />
+    <node id="Glencore" />
+    <node id="Tohoku Electric Power Co." />
+    <node id="Bacanora" />
+    <node id="BluestOne" />
+    <node id="Fer et Titane" />
+    <node id="Element 25" />
+    <node id="Caterpillar" />
+    <node id="LFP" />
+    <node id="General Motors Co" />
+    <node id="LG Energy" />
+    <node id="CTT" />
+    <node id="Sigma Lithium" />
+    <node id="SQM" />
+    <node id="Mopani" />
+    <node id="Escondida" />
+    <node id="OZ Minerals Ltd" />
+    <node id="Electra" />
+    <node id="EVE" />
+    <node id="Asia Nickel" />
+    <node id="Mind ID" />
+    <node id="Minviro" />
+    <node id="Duke Energy" />
+    <node id="CME" />
+    <node id="Metso Outotec Kamoa Copper" />
+    <node id="Mercedes" />
+    <node id="Fisker" />
+    <node id="Nth Cycle" />
+    <node id="Interros" />
+    <node id="Lilac" />
+    <node id="OZ Minerals" />
+    <node id="Liontown" />
+    <node id="Oz Minerals" />
+    <node id="LG" />
+    <node id="Alrosa PJSC" />
+    <node id="KoBold Metals" />
+    <node id="Grohmann Automation" />
+    <node id="De Beers" />
+    <node id="Eramet" />
+    <node id="ESG" />
+    <node id="Toyota" />
+    <node id="LG Energy Solution" />
+    <node id="Nissan" />
+    <node id="SMM" />
+    <node id="Roy Hill Holdings" />
+    <node id="China Baowu Steel Group Corporation" />
+    <node id="Liontown Resources" />
+    <node id="Mercedes - Benz" />
+    <node id="Gold Fields" />
+    <node id="Panasonic Holdings Corp" />
+    <node id="Talon" />
+    <node id="Core Lithium" />
+    <node id="Wabtec" />
+    <node id="Enel Green Power" />
+    <node id="Anglo Pacific Group" />
+    <node id="Hong Kong Exchanges and Clearing" />
+    <node id="Tsingshan Holding Group" />
+    <node id="ioneer Ltd" />
+    <node id="Daimler" />
+    <node id="Mazda" />
+    <node id="Missouri Cobalt" />
+    <node id="Livent" />
+    <node id="JPMorgan Chase &amp; Co" />
+    <node id="LG Energy Solution Ltd" />
+    <node id="Rio Tinto Group" />
+    <node id="BASF" />
+    <node id="Pilbara" />
+    <node id="CNGR" />
+    <node id="Sova Capital" />
+    <node id="EnergySource" />
+    <node id="Cleveland - Cliffs" />
+    <node id="Ford" />
+    <node id="Tsingshan" />
+    <node id="Li - Cycle Holdings Corp" />
+    <node id="Vale" />
+    <node id="GravitHy" />
+    <node id="BMW" />
+    <node id="OEMs" />
+    <node id="Potanin" />
+    <node id="Kumba Iron Ore" />
+    <node id="LME" />
+    <node id="MP" />
+    <node id="Prony Resources" />
+    <node id="Maxwell Technologies" />
+    <node id="Panasonic" />
+    <node id="Ganfeng" />
+    <node id="Vale Fertilizantes" />
+    <node id="First Quantum" />
+    <node id="Anglo" />
+    <node id="First Cobalt" />
+    <node id="Ural Mining &amp; Metallurgical Co." />
+    <node id="Stellantis" />
+    <node id="BYD Co." />
+    <node id="Schneider Electric" />
+    <node id="MinRes" />
+    <node id="Chuquicamata" />
+    <node id="Woodside Petroleum" />
+    <node id="Reuters" />
+    <node id="Exxon" />
+    <node id="Vulcan Energy Resources" />
+    <node id="Univar Solutions Inc" />
+    <node id="Apple" />
+    <node id="Boston Electrometallurgical Company" />
+    <node id="Nyrstar" />
+    <node id="Nio" />
+    <node id="Tullett Prebon" />
+    <node id="Volkswagen" />
+    <node id="BHP Group Ltd." />
+    <node id="Riversdale" />
+    <node id="ZCCM - IH" />
+    <node id="BENCHMARK" />
+    <node id="RUSAL" />
+    <node id="MMC Norilsk Nickel PJSC" />
+    <node id="Inco Ltd." />
+    <node id="Mara" />
+    <node id="LionOre" />
+    <node id="CATL" />
+    <node id="Nornickel" />
+    <node id="Canada Nickel" />
+    <node id="Xiamen Xiangyu" />
+    <node id="Albemarle" />
+    <node id="Aubert &amp; Duval" />
+    <node id="Stratton Metals" />
+    <node id="Epiroc" />
+    <node id="Lithium Australia Ltd" />
+    <node id="Li - Cycle Holdings" />
+    <node id="Vedanta Ltd" />
+    <node id="Huayou" />
+    <node id="BHP Group Ltd" />
+    <node id="LGES" />
+    <node id="Redwood Materials Inc." />
+    <node id="Piedmont" />
+    <node id="Nemaska" />
+    <node id="VNC" />
+    <node id="Codelco" />
+    <node id="ZCCM Investments Holdings Plc" />
+    <node id="Energy Vault" />
+    <node id="Farasis Energy" />
+    <node id="Sigma" />
+    <node id="Tamarack" />
+    <node id="Atlas Renewable Energy" />
+    <node id="Kia Corp." />
+    <node id="Telsa" />
+    <node id="Wall Street Journal" />
+    <node id="Glencore Plc" />
+    <node id="WM Motor" />
+    <node id="Roth Capital" />
+    <node id="Inco" />
+    <node id="Salzgitter Flachstahl" />
+    <node id="Guangxi Tianyuan New Energy Materials" />
+    <node id="Li - Cycle" />
+    <node id="Ford Motor Co" />
+    <node id="EGC" />
+    <node id="Green Lithium" />
+    <node id="Sumitomo Metal" />
+    <node id="NMG" />
+    <node id="Ural Mining &amp; Metallurgical Co" />
+    <node id="Panasonic Corp" />
+    <node id="Mosaic Co" />
+    <node id="Vale Base Metals" />
+    <node id="LG Chem" />
+    <node id="Orano" />
+    <node id="Sigma Lithium Corp" />
+    <node id="Nayara Energy" />
+    <node id="EVelution" />
+    <node id="Baowu Steel Group Corp" />
+    <node id="Stelco" />
+    <node id="Jetti Resources" />
+    <node id="CRU Business Intelligence" />
+    <node id="ILZSG" />
+    <node id="Chengxin Lithium Group" />
+    <node id="Envision AESC" />
+    <node id="Umicore" />
+    <node id="Horne" />
+    <node id="Pfalzwerke AG" />
+    <node id="Lake" />
+    <edge source="Rio Tinto" target="BHP" />
+    <edge source="Rio Tinto" target="BMW" />
+    <edge source="Rio Tinto" target="Baowu Steel Group Corp" />
+    <edge source="Rio Tinto" target="Ford" />
+    <edge source="Citi" target="London Metal Exchange" />
+    <edge source="Vella" target="Rio" />
+    <edge source="Panasonic Holdings Corp." target="Tesla" />
+    <edge source="Panasonic Holdings Corp." target="Wall Street Journal" />
+    <edge source="Trafigura Group" target="Mitsubishi Corp. RtM" />
+    <edge source="Trafigura Group" target="EGC" />
+    <edge source="Trafigura" target="Reuters" />
+    <edge source="Trafigura" target="Mind ID" />
+    <edge source="Trafigura" target="EGC" />
+    <edge source="Trafigura" target="Green Lithium" />
+    <edge source="Hibar" target="Tesla" />
+    <edge source="Lithion Recycling Inc" target="General Motors" />
+    <edge source="Teck Resources Ltd" target="Glencore" />
+    <edge source="Metso Outotec" target="Metso Outotec Kamoa Copper" />
+    <edge source="Metso Outotec" target="First Quantum Minerals" />
+    <edge source="Metso Outotec" target="Boliden Odda" />
+    <edge source="Metso Outotec" target="First Cobalt" />
+    <edge source="Rothschild &amp; Co" target="ZCCM - IH" />
+    <edge source="CTR" target="Stellantis" />
+    <edge source="Sichuan New Energy" target="Huayou" />
+    <edge source="Managem" target="Renault" />
+    <edge source="Managem" target="BMW" />
+    <edge source="Ganfeng Lithium Co" target="BMW" />
+    <edge source="Alcan Inc" target="Rio Tinto Group" />
+    <edge source="SK On" target="Reuters" />
+    <edge source="Controlled Thermal Resources" target="Stellantis" />
+    <edge source="Petrohawk Energy" target="BHP" />
+    <edge source="Korea Zinc" target="Teck Resources" />
+    <edge source="Korea Zinc" target="ESG" />
+    <edge source="Millennial" target="Ganfeng" />
+    <edge source="PowerCo" target="Volkswagen" />
+    <edge source="PowerCo" target="Ford" />
+    <edge source="Moatize" target="Vale" />
+    <edge source="Vale Canada" target="GM" />
+    <edge source="ERG" target="EVelution" />
+    <edge source="ERG" target="RUSAL" />
+    <edge source="BYD" target="Volkswagen" />
+    <edge source="BYD" target="Tesla" />
+    <edge source="BYD" target="Apple" />
+    <edge source="BYD" target="Ford" />
+    <edge source="Anglo American" target="BHP" />
+    <edge source="Samarco" target="Vale" />
+    <edge source="High yield Energy Technologies" target="Fortescue Metals Group" />
+    <edge source="Liebherr" target="Fortescue Metals Group" />
+    <edge source="Tesla" target="Core" />
+    <edge source="POSCO" target="LG" />
+    <edge source="US Steel" target="Nippon Steel" />
+    <edge source="US Steel" target="Stelco" />
+    <edge source="Steel" target="US Steel" />
+    <edge source="Alliance Nickel" target="Stellantis" />
+    <edge source="Cobre Panama" target="First Quantum" />
+    <edge source="Yanggu Xiangguang Copper Co." target="Tsingshan" />
+    <edge source="BHP Group" target="Rio Tinto" />
+    <edge source="BHP Group" target="Tesla Inc." />
+    <edge source="London Metal Exchange" target="Image Citibank" />
+    <edge source="London Metal Exchange" target="Nyrstar" />
+    <edge source="Jingmen Gem Co. Ltd" target="LME" />
+    <edge source="Cerrejon" target="Glencore" />
+    <edge source="Ganfeng Lithium" target="Pilbara" />
+    <edge source="Ganfeng Lithium" target="Tesla" />
+    <edge source="Talon Metals" target="Tesla" />
+    <edge source="Teck Resources" target="Glencore" />
+    <edge source="Teck Resources" target="JSW Steel Ltd" />
+    <edge source="Teck" target="Glencore" />
+    <edge source="Teck" target="Nippon Steel" />
+    <edge source="Huayou Cobalt" target="Tesla" />
+    <edge source="Zhejiang Huayou Cobalt Co." target="Tesla Inc." />
+    <edge source="Bonnell Aluminum" target="LME" />
+    <edge source="Vitesco" target="Renault" />
+    <edge source="BHP" target="Tesla" />
+    <edge source="Alcan" target="Rio Tinto" />
+    <edge source="Compass" target="LG" />
+    <edge source="Controlled Thermal" target="Stellantis" />
+    <edge source="Controlled Thermal" target="General Motors" />
+    <edge source="Syrah" target="Tesla" />
+    <edge source="Syrah" target="Vidalia" />
+    <edge source="Vale SA" target="Vale World" />
+    <edge source="Vale SA" target="Mosaic" />
+    <edge source="Vale SA" target="Adobe Stock General Motors Co." />
+    <edge source="Vale SA" target="General Motors Co" />
+    <edge source="Vale SA" target="Tesla" />
+    <edge source="Vale SA" target="Northvolt" />
+    <edge source="Lake Resources NL" target="Ford Motor Co" />
+    <edge source="Piedmont Lithium" target="Tesla" />
+    <edge source="Turquoise Hill" target="Rio Tinto" />
+    <edge source="Rusal" target="LME" />
+    <edge source="Rusal" target="Trafigura" />
+    <edge source="Rusal" target="Glencore Plc" />
+    <edge source="Rusal" target="Interros" />
+    <edge source="Nano One Materials Corp" target="Rio Tinto" />
+    <edge source="United Co. Rusal International PJSC" target="Glencore" />
+    <edge source="United Co. Rusal International PJSC" target="LME" />
+    <edge source="GME Resources" target="Stellantis" />
+    <edge source="Vulcan" target="Stellantis" />
+    <edge source="Flickr MP Materials" target="General Motors" />
+    <edge source="Kennecott" target="Rio Tinto Group" />
+    <edge source="Kennecott" target="Rio" />
+    <edge source="Kennecott" target="Rio Tinto" />
+    <edge source="Mincor Resources" target="BHP" />
+    <edge source="Glencore" target="EVelution" />
+    <edge source="Glencore" target="Vale Base Metals" />
+    <edge source="Glencore" target="Eramet" />
+    <edge source="Glencore" target="Nippon Steel Corp." />
+    <edge source="Glencore" target="GM" />
+    <edge source="Glencore" target="CTT" />
+    <edge source="Glencore" target="Tesla" />
+    <edge source="Glencore" target="Canada Nickel" />
+    <edge source="Glencore" target="First Cobalt" />
+    <edge source="BluestOne" target="Vale" />
+    <edge source="Fer et Titane" target="Rio Tinto" />
+    <edge source="Element 25" target="Stellantis" />
+    <edge source="Caterpillar" target="Albemarle Albemarle" />
+    <edge source="Caterpillar" target="Albemarle" />
+    <edge source="Caterpillar" target="Teck" />
+    <edge source="Caterpillar" target="Fortescue Metals Group" />
+    <edge source="LFP" target="Tesla" />
+    <edge source="LG Energy" target="SQM" />
+    <edge source="LG Energy" target="Tesla" />
+    <edge source="Sigma Lithium" target="Glencore" />
+    <edge source="SQM" target="BYD Co." />
+    <edge source="SQM" target="BYD" />
+    <edge source="Mopani" target="ZCCM - IH" />
+    <edge source="Mopani" target="Glencore" />
+    <edge source="Escondida" target="BHP Group Ltd" />
+    <edge source="OZ Minerals Ltd" target="BHP" />
+    <edge source="OZ Minerals Ltd" target="BHP Group Ltd." />
+    <edge source="Electra" target="LG" />
+    <edge source="EVE" target="Reuters" />
+    <edge source="Asia Nickel" target="Tesla" />
+    <edge source="Minviro" target="Tesla" />
+    <edge source="CME" target="Tullett Prebon" />
+    <edge source="CME" target="Glencore" />
+    <edge source="Mercedes" target="Li - Cycle" />
+    <edge source="Nth Cycle" target="Caterpillar" />
+    <edge source="Lilac" target="Lake" />
+    <edge source="Lilac" target="BMW" />
+    <edge source="OZ Minerals" target="BHP" />
+    <edge source="OZ Minerals" target="BHP Group Ltd" />
+    <edge source="Liontown" target="Albemarle" />
+    <edge source="Oz Minerals" target="BHP" />
+    <edge source="Oz Minerals" target="BHP Group Ltd" />
+    <edge source="Alrosa PJSC" target="De Beers" />
+    <edge source="KoBold Metals" target="BHP" />
+    <edge source="Grohmann Automation" target="Tesla" />
+    <edge source="De Beers" target="Anglo" />
+    <edge source="De Beers" target="Anglo American" />
+    <edge source="Toyota" target="Gold Fields" />
+    <edge source="Toyota" target="BHP" />
+    <edge source="LG Energy Solution" target="Electra" />
+    <edge source="LG Energy Solution" target="Electra Battery Materials" />
+    <edge source="LG Energy Solution" target="Tesla" />
+    <edge source="LG Energy Solution" target="Li - Cycle" />
+    <edge source="LG Energy Solution" target="GM" />
+    <edge source="SMM" target="Panasonic Corp" />
+    <edge source="SMM" target="Tesla" />
+    <edge source="Liontown Resources" target="Tesla" />
+    <edge source="Gold Fields" target="Vedanta Resources" />
+    <edge source="Panasonic Holdings Corp" target="Tesla" />
+    <edge source="Talon" target="Tesla" />
+    <edge source="Core Lithium" target="Tesla" />
+    <edge source="Wabtec" target="Vale" />
+    <edge source="Wabtec" target="Rio Tinto" />
+    <edge source="Wabtec" target="Roy Hill Holdings" />
+    <edge source="Enel Green Power" target="BHP" />
+    <edge source="Tsingshan Holding Group" target="CNGR" />
+    <edge source="ioneer Ltd" target="Ford Motor Co" />
+    <edge source="Missouri Cobalt" target="Glencore" />
+    <edge source="Livent" target="BMW" />
+    <edge source="LG Energy Solution Ltd" target="Lithium Australia Ltd" />
+    <edge source="LG Energy Solution Ltd" target="Honda Motor Co" />
+    <edge source="Rio Tinto Group" target="China Mineral Resources Group Co." />
+    <edge source="BASF" target="Volkswagen" />
+    <edge source="CNGR" target="Tesla Inc." />
+    <edge source="CNGR" target="Tesla" />
+    <edge source="Sova Capital" target="Nornickel" />
+    <edge source="EnergySource" target="Compass" />
+    <edge source="Cleveland - Cliffs" target="US Steel" />
+    <edge source="Tsingshan" target="Eramet" />
+    <edge source="Tsingshan" target="JPMorgan Chase &amp; Co" />
+    <edge source="Tsingshan" target="LME" />
+    <edge source="Tsingshan" target="BENCHMARK" />
+    <edge source="Li - Cycle Holdings Corp" target="Glencore" />
+    <edge source="Vale" target="China Baowu Steel Group Corporation" />
+    <edge source="Vale" target="General Motors" />
+    <edge source="Vale" target="Prony" />
+    <edge source="Vale" target="Vale Brazil" />
+    <edge source="Vale" target="Anglo Pacific Group" />
+    <edge source="GravitHy" target="Vale SA" />
+    <edge source="Kumba Iron Ore" target="Anglo" />
+    <edge source="LME" target="Trafigura" />
+    <edge source="LME" target="CME" />
+    <edge source="LME" target="Citi" />
+    <edge source="LME" target="Hong Kong Exchanges and Clearing" />
+    <edge source="MP" target="GM" />
+    <edge source="Prony Resources" target="Tesla" />
+    <edge source="Maxwell Technologies" target="Tesla" />
+    <edge source="Panasonic" target="Tesla" />
+    <edge source="Ganfeng" target="Tesla" />
+    <edge source="Ganfeng" target="BMW" />
+    <edge source="Ganfeng" target="Bacanora" />
+    <edge source="Vale Fertilizantes" target="Mosaic" />
+    <edge source="First Quantum" target="Rio" />
+    <edge source="Anglo" target="BHP" />
+    <edge source="Ural Mining &amp; Metallurgical Co." target="London Metal Exchange" />
+    <edge source="Schneider Electric" target="Rio Tinto" />
+    <edge source="Chuquicamata" target="Codelco" />
+    <edge source="Woodside Petroleum" target="BHP" />
+    <edge source="Exxon" target="Tesla" />
+    <edge source="Vulcan Energy Resources" target="Stellantis" />
+    <edge source="Univar Solutions Inc" target="Li - Cycle" />
+    <edge source="Boston Electrometallurgical Company" target="Vale" />
+    <edge source="Nyrstar" target="ILZSG" />
+    <edge source="Nio" target="Nissan" />
+    <edge source="Riversdale" target="Rio" />
+    <edge source="MMC Norilsk Nickel PJSC" target="Vale SA" />
+    <edge source="Inco Ltd." target="Vale" />
+    <edge source="Mara" target="Glencore Plc" />
+    <edge source="LionOre" target="Nornickel" />
+    <edge source="CATL" target="Tesla" />
+    <edge source="CATL" target="Duke Energy" />
+    <edge source="CATL" target="Stellantis" />
+    <edge source="CATL" target="Chery Automobile Co." />
+    <edge source="CATL" target="Ford" />
+    <edge source="CATL" target="Reuters" />
+    <edge source="CATL" target="Mercedes - Benz" />
+    <edge source="CATL" target="Pilbara Minerals" />
+    <edge source="CATL" target="Ford Motor Co" />
+    <edge source="CATL" target="Kia Corp." />
+    <edge source="CATL" target="Kia Corp" />
+    <edge source="CATL" target="Fisker" />
+    <edge source="CATL" target="Nio" />
+    <edge source="CATL" target="WM Motor" />
+    <edge source="CATL" target="Telsa" />
+    <edge source="CATL" target="Daimler" />
+    <edge source="CATL" target="Apple" />
+    <edge source="Nornickel" target="LME" />
+    <edge source="Nornickel" target="Rusal" />
+    <edge source="Nornickel" target="London Metal Exchange" />
+    <edge source="Nornickel" target="SAVANT" />
+    <edge source="Nornickel" target="Potanin" />
+    <edge source="Xiamen Xiangyu" target="CNGR" />
+    <edge source="Albemarle" target="MinRes" />
+    <edge source="Albemarle" target="Tesla TSLA" />
+    <edge source="Albemarle" target="O" />
+    <edge source="Albemarle" target="Tesla" />
+    <edge source="Albemarle" target="Ford" />
+    <edge source="Albemarle" target="OEMs" />
+    <edge source="Aubert &amp; Duval" target="Eramet" />
+    <edge source="Stratton Metals" target="First Cobalt" />
+    <edge source="Epiroc" target="Codelco" />
+    <edge source="Li - Cycle Holdings" target="Glencore" />
+    <edge source="Vedanta Ltd" target="Trafigura" />
+    <edge source="Vedanta Ltd" target="Hindustan Zinc Ltd." />
+    <edge source="Huayou" target="Ford" />
+    <edge source="LGES" target="Tesla" />
+    <edge source="Redwood Materials Inc." target="Panasonic" />
+    <edge source="Piedmont" target="Tesla" />
+    <edge source="Nemaska" target="Ford" />
+    <edge source="VNC" target="Vale" />
+    <edge source="Codelco" target="Reuters" />
+    <edge source="Energy Vault" target="Korea Zinc" />
+    <edge source="Farasis Energy" target="Daimler" />
+    <edge source="Sigma" target="LG Energy Solution" />
+    <edge source="Sigma" target="LG Energy Solution Ltd" />
+    <edge source="Tamarack" target="Tesla" />
+    <edge source="Atlas Renewable Energy" target="Anglo American" />
+    <edge source="Glencore Plc" target="Trafigura" />
+    <edge source="Glencore Plc" target="Tohoku Electric Power Co." />
+    <edge source="Glencore Plc" target="ZCCM Investments Holdings Plc" />
+    <edge source="Roth Capital" target="CATL" />
+    <edge source="Inco" target="Vale" />
+    <edge source="Salzgitter Flachstahl" target="Anglo American" />
+    <edge source="Guangxi Tianyuan New Energy Materials" target="Albemarle" />
+    <edge source="Li - Cycle" target="Glencore" />
+    <edge source="Li - Cycle" target="LG Chem Ltd." />
+    <edge source="Sumitomo Metal" target="Panasonic" />
+    <edge source="Sumitomo Metal" target="Tesla" />
+    <edge source="Sumitomo Metal" target="Panasonic Corp" />
+    <edge source="NMG" target="Panasonic" />
+    <edge source="Ural Mining &amp; Metallurgical Co" target="LME" />
+    <edge source="Mosaic Co" target="Vale" />
+    <edge source="LG Chem" target="Tesla" />
+    <edge source="Orano" target="Stellantis" />
+    <edge source="Sigma Lithium Corp" target="Tesla Inc." />
+    <edge source="Nayara Energy" target="Trafigura" />
+    <edge source="Jetti Resources" target="BMW" />
+    <edge source="CRU Business Intelligence" target="Electra" />
+    <edge source="Chengxin Lithium Group" target="Pilbara Minerals" />
+    <edge source="Envision AESC" target="Mazda" />
+    <edge source="Envision AESC" target="Mercedes" />
+    <edge source="Envision AESC" target="Nissan Motor Co." />
+    <edge source="Umicore" target="Volkswagen" />
+    <edge source="Umicore" target="Glencore" />
+    <edge source="Horne" target="Glencore" />
+    <edge source="Pfalzwerke AG" target="Vulcan" />
+  </graph>
+</graphml>

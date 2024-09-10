@@ -1,0 +1,30 @@
+[project]
+name = "Extracting-Supply-Chain-Information-from-News-Articles-Using-Large-Language-Models"
+version = "0.1.0"
+description = "Extracting-Supply-Chain-Information-from-News-Articles-Using-Large-Language-Models"
+readme = "README.md"
+requires-python = "==3.11.9"
+dependencies = [
+    "pip>=24.0",
+    "spacy>=3.7.5",
+    "datasets>=2.20.0",
+    "scikit-learn>=1.5.1",
+    "nltk>=3.8.1",
+    "gensim>=4.3.2",
+    "cleanco>=2.2",
+    "ftfy>=6.1.3",
+    "networkx>=3.3",
+    "transformers==4.43.1",
+    "torch==2.1.2+cu121",
+    "scipy==1.12.0",
+    "lightning>=2.3.3",
+    "evaluate>=0.4.1",
+    "accelerate>=0.30.1",
+    "jupyter>=1.1.1",
+    "ipywidgets>=8.1.5",
+    "python-dotenv>=1.0.1",
+]
+
+
+[tool.uv.sources]
+torch = {url = "https://download.pytorch.org/whl/cu121/torch-2.1.2%2Bcu121-cp311-cp311-win_amd64.whl"}
